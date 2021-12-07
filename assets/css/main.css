@@ -701,7 +701,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 100%;
+				width: 50%;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -1502,6 +1502,11 @@ input, select, textarea {
 		}
 
 /* Main */
+
+	.center {
+		margin-left: auto;
+		margin-right: auto;
+  	}
 
 	#main {
 		-moz-flex-grow: 1;
