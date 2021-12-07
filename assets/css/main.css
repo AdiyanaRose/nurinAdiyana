@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -1502,11 +1507,6 @@ input, select, textarea {
 		}
 
 /* Main */
-
-	.center {
-		margin-left: auto;
-		margin-right: auto;
-  	}
 
 	#main {
 		-moz-flex-grow: 1;
